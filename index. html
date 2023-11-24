@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My support</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+   <!-- Wrapper -->
+   <div class="wrapper">
+        <!-- Main content -->
+        <div class="main-content">
+        <!-- My info -->
+                <div class="my-info">
+                    <h2 class="my-profession">Монтаж, установка, наладка, сопровождение</h2>
+                    <h1 class="my-name">Видеонаблюдение. Домофоны. Системы контроля доступа. Турникеты.</h1>
+                    <h4 class="my-dyscr">Установка камер видеонаблюдения, видеорегистраторы, 
+                        вывод видео на смартфон. 
+                    </h4>
+                    <h4 class="my-dyscr">Установка видеодомофонов, многоабонентских домофонов,  
+                        управление замками через смартфон.
+                    </h4>
+                    <h4 class="my-dyscr">Систем контроля доступа (СКУД). Учет рабочего времени. 
+                    </h4>
+                    <h4 class="my-dyscr">Харьков. Гарантия на монтаж и оборудование
+                         12 месяцев.
+                        Послегарантийное техническое обслуживание.
+                        Оборудование надёжных производителей.
+                    </h4>
+
+
+
+                </div>
+
+                <!-- My projects -->
+  <!--             <div class="my-project-container">
+                    <h3 class="my-projects-title">Projects</h3>
+                    <ol class="my-projects-list">
+                        <li class="my-projects-item">
+                            <a class="my-projects-item-link" href="https://hellen.p.goit.global/" target="_blank">https://hellen.p.goit.global/</a>
+                            <span class="my-projects-item-tech">
+                            ...............
+                            [ HTML5, CSS3 ]
+                            </span>
+
+                            </li>
+                        <li class="my-projects-item">
+                            <a class="my-projects-item-link" href=" https://cryptohub.p.goit.global/" target="_blank"> https://cryptohub.p.goit.global/</a>
+                            <span class="my-projects-item-tech">
+                            .....
+                            [ JavaScript ]
+                            </span>
+                            </li>
+                        <li class="my-projects-item">
+                            <a class="my-projects-item-link" href="https://kidslike.p.goit.global/" target="_blank">https://kidslike.p.goit.global/</a>
+                            <span class="my-projects-item-tech">
+                            ............
+                            [ React.js, Node.js ]
+                            </span>
+                            </li>
+                    </ol>      
+                </div>-->
+
+                <!-- Work experiance -->
+                <div  class="work-experience">
+                    <h3 class="work-experience-title">Оборудование.</h3>
+
+                    <!-- Company 1 -->
+                    <div class="work-experience-container">
+                        <h4 class="work-experience-company">Домофоны и комплекты. <span class="company-name">Помощь в выборе под Ваши запросы.</span> </h4>
+                        <img src="img/komplekt_videodomofona_hikvision_ds_kh6350_te1_ds_kb8113_ime1.jpg" alt="My foto" width="370">
+
+
+                                                <ul class="work-experience-duties-list">
+                            <li class="work-experience-duties-item"> Видеодомофон — доступное и надежное средство связи
+                                 и наблюдения с переговорным устройством, используемое как в жилых помещениях, так и на коммерческих 
+                                 предприятиях. Сегодня выгодно покупать готовые комплекты домофонов. 
+                            </li>
+                            <li class="work-experience-duties-item">Комплекты домофонов, как правило, состоят из панели управления
+                                 и панели вызова, оснащенными видеокамерой, микрофоном, дисплеем, динамиками и кнопками управления. 
+                                 В отдельных случаях используется дополнительное оснащение картой памяти, датчиком движения, 
+                                 громкоговорителем. 
+                            </li>
+                            <li class="work-experience-duties-item">Аналоговые — комфортабельные устройства, отличающиеся простой установкой
+                                 и использованием. Домофоны подразделяют на 2 группы — монохромные (черно-белые) и цветные.
+                                  Каждая группа имеет недостатки и преимущества. Первые передают качественную картинку даже 
+                                  в полной темноте благодаря ИК подсветке, вторые — передают менее четкое изображение в темное время. 
+                            </li>
+                            <li class="work-experience-duties-item">IP видеодомофон — этот вид домофонных систем шагнул далеко
+                                 вперед привычных аналоговых. IP домофон позволяет подключаться и управлять системой не только 
+                                 стационарно, но и через интернет с любого устройства — ПК, смартфон или андроид с установкой
+                                  специального приложения. Это дает возможности дистанционного контроля и управления, независимо 
+                                  от удаленности владельца.  </li>
+                        </ul>
+                    </div>
+
+                    <!-- Company 2 -->
+                    <div class="work-experience-container">
+                        <h4 class="work-experience-company">Камеры видеонаблюдения. </h4>
+                        <img src="img/DS-2CD2683G1-IZS(2).jpg" alt="My foto" width="370">
+                        <ul class="work-experience-duties-list"></ul>
+                            <li class="work-experience-duties-item">Внешние камеры подходят для установки вне зданий.</li>
+                            <li class="work-experience-duties-item">Внутренние камеры предназначены для монтажа внутри помещений. 
+                            </li>
+                            <li class="work-experience-duties-item">Купольные камеры. Они подходят для размещения как внутри зданий, 
+                                так и на улице, могут крепиться к стене или потолку, а также обладают большим углом обзора.
+                            </li>
+                            <li class="work-experience-duties-item">Цилиндрические видеокамеры обычно комплектуются кронштейном для крепления к поверхности
+                                 и регулировки их расположения в горизонтальной и вертикальной плоскостях.</li>
+                            <li class="work-experience-duties-item">Поворотные камеры пользуются большим спросом на крупных предприятиях, так как подходят 
+                                для управления дистанционным образом или при помощи автоматического перемещения объектива с целью слежения по заданному маршруту.
+                                 Они имеют сферический корпус и могут перемещаться на 360°, что позволяет эффективно наблюдать за большой территорией.</li>
+                            <li class="work-experience-duties-item">Существуют различные типы камер наблюдения в зависимости от способа преобразования и передачи 
+                                сигнала - аналоговые камеры и Цифровые камеры подключаются с помощью витой пары, изображение преобразуется в цифровой видеосигнал и
+                                 передается на сервер. </li>
+                            <li class="work-experience-duties-item">Wi-Fi камеры обрабатывают информацию с помощью встроенного беспроводного модуля. Они часто используются
+                                 в тех местах, где невозможна прокладка кабеля или используются переносные камеры.</li>
+                            <li class="work-experience-duties-item"></li>
+                         </ul>
+                    </div>
+                    <!-- Company 3 -->
+                    <div class="work-experience-container">                        
+                        <h4 class="work-experience-company">Системы контроля доступа. СКУД </h4>
+                        <img src="img/500.jpg" alt="My foto" width="370">
+                        
+                        <ul class="work-experience-duties-list"></ul>
+                            <li class="work-experience-duties-item"> Решения по контролю за доступом персонала 
+                                – это важная составляющая любой современной системы безопасности, которая 
+                                позволяет полностью контролировать ситуацию на объекте, независимо от его
+                                 типа и размера. С помощью такой системы вы сможете ограничивать доступ
+                                  сотрудников в определенные помещения, а также сохраняя в базе информацию
+                                   относительно перемещения каждого из них по территории объекта. Эти данные 
+                                   затем можно легко и просто извлечь из базы, если появиться необходимость 
+                                   использовать их с той или иной целью.  
+                            </li>
+                            <li class="work-experience-duties-item">В зависимости от выбора места установки, такие комплекты 
+                                 оснащаются автономными или сетевыми контроллерами, считывателями ключей или 
+                                карт, электромагнитными или электромеханическими замками, кнопками выхода,
+                                 автономными источниками питания и другими необходимыми для эффективной работы элементами.
+                            </li>
+                            <li class="work-experience-duties-item">Такие системы безопасности прекрасно 
+                                зарекомендовали себя не только на крупных предприятиях, но и в условиях офисов
+                                 небольших компаний. Все чаще стали заказывать готовые решения СКУД для 
+                                 установки в гостиницах, коттеджах, многоквартирных домах. Тут их обычно 
+                                 используют вместе с домофонными системами, в качестве основных 
+                                 или дополнительных устройств обеспечения безопасности. 
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Education -->
+ <!--             <div>
+                    <h3 class="my-education">Education</h3>
+
+                    <div class="education-container">
+                        <h4 class="education-univer">National University of Management</h4>
+                        <h4 class="education-prof">Management</h4>
+                        <p class="education-period">September 2009 - June 2014   <span class="education-period-separator">|</span>   Country</p>
+                    </div>
+                </div>-->  
+
+
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <img src="img/1674323530_papik-pro-p-kamera-risunok-29.png" alt="My foto" width="370">
+
+            <div class="sidebar-content">
+            
+                <!--Contacts-->
+                <div class="contacts-container">
+                    <h3 class="contacts-title">Контакты</h3>
+                    <p class="contacts-item">
+                        <span class="contacts-type">Тел:</span> 
+                        <a class="contacts-link" href="tel:+380888888888">+38-068-390-56-75</a>
+                    </p>
+                    <p class="contacts-item">
+                        <span class="contacts-type">E-mail:</span> 
+                        <a class="contacts-link" href="mail:t.777@gmail.com">videocamshelp@gmail.com</a>
+                    </p>
+                </div>
+
+                <!-- Tech skils -->
+                <div class="skills-container">
+                    <h3 class="skills-title">Производители оборудования</h3>
+                    <ul class="skills-list">
+                        <li class="skills-list-item">Dahua</li>
+                        <li class="skills-list-item">Hikvision</li>
+                        <li class="skills-list-item">Arny</li>
+                        <li class="skills-list-item">Atis</li>
+                        <li class="skills-list-item">Commax</li>
+                        <li class="skills-list-item">Geos</li>
+                        <li class="skills-list-item">U-Prox</li>
+                    </ul>
+                </div>
+
+                <!-- Soft skils -->
+ <!--           <div class="soft-skills-container">
+                    <h3 class="soft-skills">Soft skils</h3>
+                    <ul class="soft-skills-list">
+                        <li class="soft-skills-list-item">Scrum</li>
+                        <li class="soft-skills-list-item">Agile</li>
+                        <li class="soft-skills-list-item">GTD</li>
+                        <li class="soft-skills-list-item">Teamwork</li>
+                    </ul>
+                </div>-->
+            </div>
+        </aside>
+
+    </div>
+
+</body>
+</html>
